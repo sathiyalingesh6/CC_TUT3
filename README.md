@@ -1,2 +1,2 @@
 # CC_TUT3
-collaboration with teammate.
+This is a sample program for prallel programming
