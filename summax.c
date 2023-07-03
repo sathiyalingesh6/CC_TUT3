@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <omp.h>
-//this is an example of parallel programmming.....
+//this is an example of parallel programmming.....,...........
 int main()
 {
     int i, a[5] = {1, 2, 3, 4, 8};
